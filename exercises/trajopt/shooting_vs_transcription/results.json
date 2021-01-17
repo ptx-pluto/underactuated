@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "name": "Test value function Riccati recursion",
+            "score": 4,
+            "max_score": 4
+        },
+        {
+            "name": "Test value function direct transcription",
+            "score": 4,
+            "max_score": 4
+        },
+        {
+            "name": "Test construction of diagonal block of Mb",
+            "score": 4,
+            "max_score": 4
+        },
+        {
+            "name": "Test number of bits lost with direct shooting",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test number of bits lost with direct transcription",
+            "score": 3,
+            "max_score": 3
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.02",
+    "score": 18
+}

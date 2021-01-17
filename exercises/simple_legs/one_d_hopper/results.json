@@ -1,0 +1,17 @@
+{
+    "tests": [
+        {
+            "name": "Test mechanical energy",
+            "score": 3,
+            "max_score": 3
+        },
+        {
+            "name": "Test preload controller",
+            "score": 10,
+            "max_score": 10
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "53.24",
+    "score": 13
+}

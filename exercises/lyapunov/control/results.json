@@ -1,0 +1,17 @@
+{
+    "tests": [
+        {
+            "name": "Test Lyapunov controller away from origin",
+            "score": 4,
+            "max_score": 4
+        },
+        {
+            "name": "Test Lyapunov controller near origin",
+            "score": 4,
+            "max_score": 4
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.00",
+    "score": 8
+}

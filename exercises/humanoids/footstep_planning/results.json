@@ -1,0 +1,31 @@
+{
+    "tests": [
+        {
+            "name": "Tests that binaries imply correctly the positioning of the feet",
+            "score": 0.0,
+            "max_score": 5,
+            "output": "Test Failed: index 0 is out of bounds for axis 0 with size 0\n"
+        },
+        {
+            "name": "Tests that the positioning of the feet minimized the sum of the",
+            "score": 0.0,
+            "max_score": 4,
+            "output": "Test Failed: False is not true : Target cost of 4.1592510194 is not achieved for terrain_A, with absolute tolerance 0.02 and relative tolerance 0.02.\n"
+        },
+        {
+            "name": "Tests that a foot is assigned to a single stepping stone",
+            "score": 0.0,
+            "max_score": 3,
+            "output": "Test Failed: 0.0 != 1 within 4 places : Error at foot step 0 when solving the problem for terrain_A: stone_left[0] do not sum up to one.\n"
+        },
+        {
+            "name": "Tests the constraints on the relative position of the feet",
+            "score": 0.0,
+            "max_score": 4,
+            "output": "Test Failed: \nArrays are not less-ordered\nError at foot step 3 when solving the problem for terrain_A: one foot is not contained in a square of side 0.8 centered at the other foot.\nMismatched elements: 1 / 2 (50%)\nMax absolute difference: 0.41\nMax relative difference: 1.\n x: array([ 7.964376e-01, -4.717284e-13])\n y: array([0.41, 0.41])\n"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.09",
+    "score": 0.0
+}

@@ -70,7 +70,7 @@ class TestOneDHopper(unittest.TestCase):
             'correct values when evaluated at random points.')
 
     @weight(10)
-    @timeout_decorator.timeout(15.)
+    @timeout_decorator.timeout(100)
     def test_preload_controller(self):
         """Test preload controller"""
         # retrieve controller and simulator
